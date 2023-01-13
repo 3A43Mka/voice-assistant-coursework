@@ -1,0 +1,242 @@
+[
+  {
+    "address": "м. Київ, вул. Сєченова, 8 (для учнів та персоналу)",
+    "type": "Найпростіші укриття",
+    "form": "Підвал",
+    "buildingType": "школа І-ІІІ ступенів № 186 міста Києва",
+    "hasWifi": false,
+    "coordinates": {
+      "x": 50.38958321843431,
+      "y": 30.490988422860372
+    },
+    "link": "https://maps.google.com/maps?q=%D0%B2%D1%83%D0%BB%D0%B8%D1%86%D1%8F%20%D0%A1%D1%94%D1%87%D0%B5%D0%BD%D0%BE%D0%B2%D0%B0,%208,%20%D0%9A%D0%B8%D1%97%D0%B2,%2002000&t=&z=13&ie=UTF8&iwloc=&output=embed"
+  },
+  {
+    "address": "м. Київ, вул. Жуковського, 10",
+    "type": "Найпростіші укриття",
+    "form": "Підвал",
+    "buildingType": "Будинки ОСББ",
+    "hasWifi": true,
+    "coordinates": {
+      "x": 50.40078580178106,
+      "y": 30.52192878369852
+    },
+    "link": "https://maps.google.com/maps?q=%D0%A7%D0%B5%D1%80%D0%B5%D0%B2%D0%B0%D0%BD%D1%8C.%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD,%20Vasylya%20Zhukovs'koho%20St,%2010,%20Kyiv,%2003022&t=&z=13&ie=UTF8&iwloc=&output=embed"
+  },
+  {
+    "address": "м. Київ, вул. Якубовського Маршала , 11",
+    "type": "Найпростіші укриття",
+    "form": "Підвал",
+    "buildingType": "Будинки ЖБК",
+    "hasWifi": false,
+    "coordinates": {
+      "x": 50.382195710136514,
+      "y": 30.450067337701068
+    },
+    "link": "https://maps.google.com/maps?q=%D0%BC.%20%D0%9A%D0%B8%D1%97%D0%B2,%20%D0%B2%D1%83%D0%BB.%20%D0%AF%D0%BA%D1%83%D0%B1%D0%BE%D0%B2%D1%81%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%9C%D0%B0%D1%80%D1%88%D0%B0%D0%BB%D0%B0%20,%2011&t=&z=13&ie=UTF8&iwloc=&output=embed"
+  },
+  {
+    "address": "Перегін між станціями «Либідська-Деміївська»",
+    "type": "Подвійного призначення",
+    "form": "Станція метро",
+    "buildingType": "Станції КП «Київський метрополітен»",
+    "hasWifi": true,
+    "coordinates": {
+      "x": 50.4119972797191,
+      "y": 30.525627463931663
+    },
+    "link": "https://maps.google.com/maps?q=%D0%B2%D1%83%D0%BB.%20%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%D0%B0,%20%D0%BA%D0%B8%D1%97%D0%B2,%2002000&t=&z=13&ie=UTF8&iwloc=&output=embed"
+  },
+  {
+    "address": "м.Київ, вул. Старонаводницька, 4-А",
+    "type": "Найпростіші укриття",
+    "form": "Підвал",
+    "buildingType": "житловий будинок",
+    "hasWifi": false,
+    "coordinates": {
+      "x": "50.42797163518728",
+      "y": "30.543257253059963"
+    },
+    "link": "https://maps.google.com/maps?q=%D0%BC.%D0%9A%D0%B8%D1%97%D0%B2,%20%D0%B2%D1%83%D0%BB.%20%D0%A1%D1%82%D0%B0%D1%80%D0%BE%D0%BD%D0%B0%D0%B2%D0%BE%D0%B4%D0%BD%D0%B8%D1%86%D1%8C%D0%BA%D0%B0,%204-%D0%90&t=&z=13&ie=UTF8&iwloc=&output=embed"
+  },
+  {
+    "address": "м.Київ, площа Космонавтів",
+    "type": "Найпростіші укриття",
+    "form": "Підземний перехід з пандусом",
+    "buildingType": "Підземний перехід",
+    "hasWifi": false,
+    "coordinates": {
+      "x": 50.432036555722824,
+      "y": 30.45527165324746
+    },
+    "link": "https://maps.google.com/maps?q=%D0%BC.%D0%9A%D0%B8%D1%97%D0%B2,%20%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%20%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D1%96%D0%B2&t=&z=13&ie=UTF8&iwloc=&output=embed"
+  },
+  {
+    "address": "м.Київ, вул. Іллєнка Юрія, 39 (для учнів та персоналу)",
+    "type": "Найпростіші укриття",
+    "form": "Підвал",
+    "buildingType": "Школа",
+    "hasWifi": true,
+    "coordinates": {
+      "x": 50.46517983961335,
+      "y": 30.476804977182166
+    },
+    "link": "https://maps.google.com/maps?q=%D0%BC.%D0%9A%D0%B8%D1%97%D0%B2,%20%D0%B2%D1%83%D0%BB.%20%D0%86%D0%BB%D0%BB%D1%94%D0%BD%D0%BA%D0%B0%20%D0%AE%D1%80%D1%96%D1%8F,%2039%20&t=&z=13&ie=UTF8&iwloc=&output=embed"
+  },
+  {
+    "address": "Станція метро «Хрещатик»",
+    "type": "Подвійного призначення",
+    "form": "Станція метро",
+    "buildingType": "Станція метро",
+    "hasWifi": true,
+    "coordinates": {
+      "x": 50.447827292124934,
+      "y": 30.52891734497398
+    },
+    "link": "https://maps.google.com/maps?q=%D0%A1%D1%82%D0%B0%D0%BD%D1%86%D1%96%D1%8F%20%D0%BC%D0%B5%D1%82%D1%80%D0%BE%20%C2%AB%D0%A5%D1%80%D0%B5%D1%89%D0%B0%D1%82%D0%B8%D0%BA%C2%BB&t=&z=13&ie=UTF8&iwloc=&output=embed"
+  },
+  {
+    "address": "м.Київ, вул. Підвисоцького,12-А",
+    "type": "Подвійного призначення",
+    "form": "Підвал",
+    "buildingType": "житловий будинок",
+    "hasWifi": false,
+    "coordinates": {
+      "x": 50.41462117175547,
+      "y": 30.54853089803851
+    },
+    "link": "https://maps.google.com/maps?q=%D0%BC.%D0%9A%D0%B8%D1%97%D0%B2,%20%D0%B2%D1%83%D0%BB.%20%D0%9F%D1%96%D0%B4%D0%B2%D0%B8%D1%81%D0%BE%D1%86%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE,12-%D0%90&t=&z=13&ie=UTF8&iwloc=&output=embed"
+  },
+  {
+    "address": "м.Київ, площа Космонавтів",
+    "type": "Найпростіші укриття",
+    "form": "Підземний перехід з пандусом",
+    "buildingType": "Підземний перехід",
+    "hasWifi": false,
+    "coordinates": {
+      "x": 50.432473942119024,
+      "y": 30.45527165324746
+    },
+    "link": "https://maps.google.com/maps?q=%D0%BC.%D0%9A%D0%B8%D1%97%D0%B2,%20%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%20%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D1%96%D0%B2&t=&z=13&ie=UTF8&iwloc=&output=embed"
+  },
+  {
+    "address": "м. Київ, вул. Покотила Володимира, 1",
+    "type": "Найпростіші укриття",
+    "form": "Підвал",
+    "buildingType": "житловий будинок",
+    "hasWifi": true,
+    "coordinates": {
+      "x": 50.429660437687886,
+      "y": 30.3870931758418
+    },
+    "link": "https://maps.google.com/maps?q=%D0%BC.%20%D0%9A%D0%B8%D1%97%D0%B2,%20%D0%B2%D1%83%D0%BB.%20%D0%9F%D0%BE%D0%BA%D0%BE%D1%82%D0%B8%D0%BB%D0%B0%20%D0%92%D0%BE%D0%BB%D0%BE%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%B0,%201&t=&z=13&ie=UTF8&iwloc=&output=embed"
+  },
+  {
+    "address": "Станція метро «Житомирська»",
+    "type": "Подвійного призначення",
+    "form": "Станція метро",
+    "buildingType": "Станція метро",
+    "hasWifi": true,
+    "coordinates": {
+      "x": 50.45651367328523,
+      "y": 30.36928388140383
+    },
+    "link": "https://maps.google.com/maps?q=%D0%A1%D1%82%D0%B0%D0%BD%D1%86%D1%96%D1%8F%20%D0%BC%D0%B5%D1%82%D1%80%D0%BE%20%C2%AB%D0%96%D0%B8%D1%82%D0%BE%D0%BC%D0%B8%D1%80%D1%81%D1%8C%D0%BA%D0%B0%C2%BB&t=&z=13&ie=UTF8&iwloc=&output=embed"
+  },
+  {
+    "address": "м.Київ, вул. Щербаківського Данила, 58-А (для учнів та персоналу)",
+    "type": "Найпростіші укриття",
+    "form": "Підвал",
+    "buildingType": "Школа",
+    "hasWifi": false,
+    "coordinates": {
+      "x": 50.47347283207054,
+      "y": 30.409598854804326
+    },
+    "link": "https://maps.google.com/maps?q=%D0%BC.%D0%9A%D0%B8%D1%97%D0%B2,%20%D0%B2%D1%83%D0%BB.%20%D0%A9%D0%B5%D1%80%D0%B1%D0%B0%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%94%D0%B0%D0%BD%D0%B8%D0%BB%D0%B0,%2058-%D0%90&t=&z=13&ie=UTF8&iwloc=&output=embed"
+  },
+  {
+    "address": "м.Київ, просп. Правди, 84 (для учнів та персоналу)",
+    "type": "Найпростіші укриття",
+    "form": "Підвал",
+    "buildingType": "Школа",
+    "hasWifi": true,
+    "coordinates": {
+      "x": 50.511311813045246,
+      "y": 30.428232697021745
+    },
+    "link": "https://maps.google.com/maps?q=%D0%BC.%D0%9A%D0%B8%D1%97%D0%B2,%20%D0%BF%D1%80%D0%BE%D1%81%D0%BF.%20%D0%9F%D1%80%D0%B0%D0%B2%D0%B4%D0%B8,%2084%20&t=&z=13&ie=UTF8&iwloc=&output=embed"
+  },
+  {
+    "address": "м.Київ, вул. Автозаводська, 9-А",
+    "type": "Найпростіші укриття",
+    "form": "Підвал",
+    "buildingType": "Житловий будинок",
+    "hasWifi": false,
+    "coordinates": {
+      "x": 50.50203901889189,
+      "y": 30.46061542403444
+    },
+    "link": "https://maps.google.com/maps?q=%D0%BC.%D0%9A%D0%B8%D1%97%D0%B2,%20%D0%B2%D1%83%D0%BB.%20%D0%90%D0%B2%D1%82%D0%BE%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D1%81%D1%8C%D0%BA%D0%B0,%209-%D0%90&t=&z=13&ie=UTF8&iwloc=&output=embed"
+  },
+  {
+    "address": "м.Київ, просп. Оболонський, 11",
+    "type": "Найпростіші укриття",
+    "form": "Підвал",
+    "buildingType": "Житловий будинок",
+    "hasWifi": true,
+    "coordinates": {
+      "x": 50.508403529333854,
+      "y": 30.49689483333903
+    },
+    "link": "https://maps.google.com/maps?q=%D0%BC.%D0%9A%D0%B8%D1%97%D0%B2,%20%D0%BF%D1%80%D0%BE%D1%81%D0%BF.%20%D0%9E%D0%B1%D0%BE%D0%BB%D0%BE%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9,%2011&t=&z=13&ie=UTF8&iwloc=&output=embed"
+  },
+  {
+    "address": "м.Київ, вул. Оленівська, 25",
+    "type": "Найпростіші укриття",
+    "form": "Підвал",
+    "buildingType": "Гуртожиток",
+    "hasWifi": false,
+    "coordinates": {
+      "x": 50.4752224250033,
+      "y": 30.51380290935799
+    },
+    "link": "https://maps.google.com/maps?q=%D0%BC.%D0%9A%D0%B8%D1%97%D0%B2,%20%D0%B2%D1%83%D0%BB.%20%D0%9E%D0%BB%D0%B5%D0%BD%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B0,%2025&t=&z=13&ie=UTF8&iwloc=&output=embed"
+  },
+  {
+    "address": "м.Київ, вул. Бальзака, 80",
+    "type": "Найпростіші укриття",
+    "form": "Підвал",
+    "buildingType": "житловий будинок",
+    "hasWifi": false,
+    "coordinates": {
+      "x": 50.52425349149283,
+      "y": 30.610338756733803
+    },
+    "link": "https://maps.google.com/maps?q=%D0%BC.%D0%9A%D0%B8%D1%97%D0%B2,%20%D0%B2%D1%83%D0%BB.%20%D0%91%D0%B0%D0%BB%D1%8C%D0%B7%D0%B0%D0%BA%D0%B0,%2080&t=&z=13&ie=UTF8&iwloc=&output=embed"
+  },
+  {
+    "address": "м.Київ, вул. Курчатова, 6-А (для учнів та персоналу)",
+    "type": "Найпростіші укриття",
+    "form": "Підвал",
+    "buildingType": "Школа",
+    "hasWifi": true,
+    "coordinates": {
+      "x": 50.475452414839154,
+      "y": 30.624921709361068
+    },
+    "link": "https://maps.google.com/maps?q=%D0%BC.%D0%9A%D0%B8%D1%97%D0%B2,%20%D0%B2%D1%83%D0%BB.%20%D0%9A%D1%83%D1%80%D1%87%D0%B0%D1%82%D0%BE%D0%B2%D0%B0,%206-%D0%90%20&t=&z=13&ie=UTF8&iwloc=&output=embed"
+  },
+  {
+    "address": "м. Київ, вул. Ентузіастів, 11",
+    "type": "Подвійного призначення",
+    "form": "Підвал",
+    "buildingType": "Житловий будинок",
+    "hasWifi": true,
+    "coordinates": {
+      "x": 50.436880444064414,
+      "y": 30.619763921529472
+    },
+    "link": "https://maps.google.com/maps?q=%D0%BC.%20%D0%9A%D0%B8%D1%97%D0%B2,%20%D0%B2%D1%83%D0%BB.%20%D0%95%D0%BD%D1%82%D1%83%D0%B7%D1%96%D0%B0%D1%81%D1%82%D1%96%D0%B2,%2011&t=&z=13&ie=UTF8&iwloc=&output=embed"
+  }
+]

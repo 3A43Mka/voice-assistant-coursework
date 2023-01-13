@@ -1,0 +1,38 @@
+Language model created by QuickLM on Tue Nov 22 14:46:26 EST 2022
+Copyright (c) 1996-2010 Carnegie Mellon University and Alexander I. Rudnicky
+
+The model is in standard ARPA format, designed by Doug Paul while he was at MITRE.
+
+The code that was used to produce this language model is available in Open Source.
+Please visit http://www.speech.cs.cmu.edu/tools/ for more information
+
+The (fixed) discount mass is 0.5. The backoffs are computed using the ratio method.
+This model based on a corpus of 1 sentences and 6 words
+
+\data\
+ngram 1=6
+ngram 2=5
+ngram 3=4
+
+\1-grams:
+-1.0792 </s> -0.3010
+-1.0792 <s> -0.2632
+-1.0792 don't -0.2632
+-1.0792 please -0.2632
+-1.0792 redeem -0.2632
+-1.0792 sir -0.2632
+
+\2-grams:
+-0.3010 <s> sir 0.0000
+-0.3010 don't redeem 0.0000
+-0.3010 please don't 0.0000
+-0.3010 redeem </s> -0.3010
+-0.3010 sir please 0.0000
+
+\3-grams:
+-0.3010 <s> sir please
+-0.3010 don't redeem </s>
+-0.3010 please don't redeem
+-0.3010 sir please don't
+
+\end\

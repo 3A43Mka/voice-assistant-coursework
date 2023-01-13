@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=yes, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+          rel="stylesheet">
+    <title>Voice Assistant</title>
+</head>
+<body>
+<div id="app">
+    <div class="container">
+        <div class="screen-container">
+            <div class="screen" id="screen-question">
+
+<!--                <div class="question-background"></div>-->
+                <div class="question-headline"></div>
+
+            </div>
+            <div class="screen" id="screen-didnt-understand">
+                <div class="unheard-container">
+                    <div class="unheard-text">Sorry, couldn't recognize your mumbling :( Try again please!</div>
+                    <div class="unheard-icon"><img src="./resources/images/sad_dog.png"></div>
+                </div>
+
+            </div>
+            <div class="screen" id="screen-showmap">
+                <div id="map-screen-heading" class="map-screen-heading"> Here is the list of places</div>
+                <div id="map-container" class="map-container">
+                    <div id="map-places-list" class="map-places-list">
+                    </div>
+                    <div class="mapouter">
+                        <div class="gmap_canvas">
+                            <iframe width="100%" height="100%" id="gmap_canvas"
+                                    src="https://maps.google.com/maps?q=metalistiv%203%20kyiv&t=&z=13&ie=UTF8&iwloc=&output=embed"
+                                    frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+                            <br>
+                            <style>.mapouter {
+                                position: relative;
+                                text-align: right;
+                                height: 100%;
+                                width: 100%;
+                            }</style>
+                            <a href="https://www.embedgooglemap.net"></a>
+                            <style>.gmap_canvas {
+                                overflow: hidden;
+                                background: none !important;
+                                height: 100%;
+                                width: 100%;
+                            }</style>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="screen" id="screen-showfaq">
+                <div class="faq-container" id="faq-container">
+                    <div class="faq-title" id="faq-title"></div>
+                    <div class="faq-photos" id="faq-photos"></div>
+                    <div class="faq-body" id="faq-body"></div>
+                </div>
+            </div>
+        </div>
+        <div class="lower-panel">
+            <div class="speak-button" id="speak-button">
+                <div class="speak-button-background"></div>
+                <div class="speak-button-text" id="speak-button-text">Press to speak</div>
+            </div>
+            <div class="assistant-container" id="assistant-container">
+                <video class="assistant-video" autoplay muted loop>
+                    <source src="resources/dog-rotate-transparent.webm" type="video/webM">
+                </video>
+            </div>
+        </div>
+
+
+
+    </div>
+    <div class="debug-section">
+        <div class="debug-menu">
+            <span class="debug-heading">Simulate next server response</span>
+            <button class="debug-button" id="debug-didnt-understand">Didn't understand user request</button>
+            <button class="debug-button" id="debug-some-stupid-ass-question">Ask some question</button>
+            <button class="debug-button" id="debug-show-nearest-shelter">Show nearest shelter</button>
+            <button class="debug-button" id="debug-faq-what-to-take-to-shelter">Show faq on what to take to shelter</button>
+            <button class="debug-button" id="debug-go-to-start">Go to start</button>
+        </div>
+
+        <form>
+            [debug]
+            <label>
+                server Url:
+                <input value="" id="debug-server-url">
+            </label>
+        </form>
+    </div>
+
+
+</div>
+
+
+<script src="script.js"></script>
+</body>
+</html>
